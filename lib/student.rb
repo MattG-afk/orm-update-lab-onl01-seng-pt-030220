@@ -48,6 +48,6 @@ class Student
     new_student
   end
   
-  def
+
 
 end
