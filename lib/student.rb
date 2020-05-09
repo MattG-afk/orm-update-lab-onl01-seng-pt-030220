@@ -12,7 +12,7 @@ class Student
   
   def self.create_table
     sql = <<-SQL
-    CREATE TABLE IF NOT EXSITS
+    CREATE TABLE IF NOT EXSITS students
 
 
 end
